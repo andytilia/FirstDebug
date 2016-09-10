@@ -7,7 +7,7 @@ import javax.swing.JFrame;
 import javax.swing.JPanel;
 import javax.swing.Timer;
 
-public class MovingDisk extands JPanel
+public class MovingDisk extends JPanel
                   implements ActionListener
 {
   private int time;
